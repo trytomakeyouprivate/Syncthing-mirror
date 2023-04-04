@@ -9,9 +9,9 @@ You dont need a cloud to have your stuff everywhere you want. And if thats at le
 Try not to sync too many folders and prefer to maybe restructure your files. If you often need to change setups, this may help.
 
 ## PC to PC
-My setup has a KDE desktop and nearly exclusively Flatpak apps. I use SyncThingy, which autostarts on login and works great.
+My setup has a KDE desktop and nearly exclusively Flatpak apps. I use [SyncThingy](https://flathub.org/apps/details/com.github.zocker_160.SyncThingy), which autostarts on login and works great.
 
-1. Use an app like ClipQR and scan the QR Code of one Syncthing machine with the other machine
+1. Use an app like [ClipQR](https://flathub.org/apps/details/ch.imatt.ClipQR) and scan the QR Code of one Syncthing machine with the other machine
 2. Add the machine on the other laptop using the copied ID
 3. Delete the standard folder if you dont need it
 4. Create a new synced folder, it uses the home directory, remov the created foldername from random letters
